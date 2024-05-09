@@ -1,6 +1,7 @@
 ## About our repository
 
 
-4 thành viên của nhóm
+Thành viên của nhóm
 - Bùi Quốc Bình
 - Tạ Tuấn Anh
+- Hoàng Minh Đức
