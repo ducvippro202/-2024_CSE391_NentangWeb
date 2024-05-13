@@ -35,12 +35,12 @@ button span{
     flex-wrap: wrap;
     margin-left: 120px;
     margin-top: 40px;
-    margin-bottom: 40px;
 }
 
 .container-child{
     width: 420px;
     height: 370px;
+    margin-bottom: 30px;
     
 }
 .container-child h3, .container-child p, .container-child ul{
